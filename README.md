@@ -23,4 +23,5 @@ PhD Krzysztof Szajek
 
 ## Contributions
 template of SOLDIS PROJEKTANT plugin - PhD Krzysztof Szajek
+
 user interface - Tkinter library
