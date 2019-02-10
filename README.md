@@ -5,12 +5,11 @@ Foundation piles designing plugin to SOLDIS PROJEKTANT software (Topic of our ma
 Whole project was written in Python 2.7.
 Unfortunetly this plugin cannot be run standalone, so I put here some pictures of it. There's the whole paper attached, where all algorithm are explained.
 
+#### User interface
 ![Screenshot](UI.jpg)
-User interface
 
+#### Other piles viewes
 ![Screenshot](UI2.png)
-
-Other piles viewes
 
 ## Authors
 Jakub Majchrzak
