@@ -9,11 +9,14 @@ Unfortunetly this plugin cannot be run standalone, so I put here some pictures o
 User interface
 
 ![Screenshot](UI2.png)
+
 Other piles viewes
 
 ## Authors
 Jakub Majchrzak
+
 Piotr Piekielny
+
 
 ## Supervisor
 PhD Krzysztof Szajek
